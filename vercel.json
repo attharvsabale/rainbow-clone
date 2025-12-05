@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/rainbow.me",
+      "permanent": false
+    }
+  ]
+}
